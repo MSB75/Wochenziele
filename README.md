@@ -38,3 +38,8 @@ Keine Server-API oder externen Trackingdienste. Daten werden im lokalen Browsers
 - Aktualisiertes App-Icon mit Reagenzglas und rot-blauen Kugeln, auch im Kopfbereich der App.
 - 16:9-Präsentationsansicht als optionale Anzeige für Breitbildschirme und AirPlay. Die tatsächliche AirPlay-Auflösung wird vom System bestimmt.
 - Kontaktadresse im Infobereich ergänzt.
+
+## Version 1.5
+- Der 16:9-Umschalter wurde entfernt.
+- Glasbreite und Kugeldurchmesser nutzen den verfügbaren Platz und passen sich automatisch an die eingestellte Zielzahl an.
+- Bei ausreichend breiten Schülerkarten füllt ein vollständiger Kugelstapel das Reagenzglas bis oben.
